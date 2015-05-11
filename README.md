@@ -1,5 +1,5 @@
 Blog project for M101JS
-
+This is developed using NodeJS,MongoDB,Express
 ./app.js - entry point
 ./package.json - npm package description
 ./routes/ - Application routes
